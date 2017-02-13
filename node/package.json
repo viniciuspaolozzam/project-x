@@ -1,0 +1,12 @@
+{
+  "name": "my-node-codebase",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp-watch": "*",
+    "browser-sync": "*"
+  },
+  "devDependencies": {
+    "gulp": "*"
+
+  }
+}
